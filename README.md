@@ -1,2 +1,2 @@
-# quick_sort
+# Quick Sort Algorithms
 beginner quick sort algorithm
